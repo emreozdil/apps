@@ -1,0 +1,34 @@
+{
+    "apps": [
+        {
+            "name": "Qeeky - Insta Story Viewer",
+            "id": "id1486077827",
+            "image": ""
+        },
+        {
+            "name": "Poze - Insta Profile Picture Zoom",
+            "id": "id1464034683",
+            "image": ""
+        },
+        {
+            "name": "Fontly - Fonts for Stories",
+            "id": "id1504081800",
+            "image": ""
+        },
+        {
+            "name": "Troda - Truth or Dare",
+            "id": "id1464034683",
+            "image": ""
+        },
+        {
+            "name": "Aesthetic App Icon Kit",
+            "id": "id1534052981",
+            "image": ""
+        },
+        {
+            "name": "Icon Pack - Change App Logo",
+            "id": "id1534451358",
+            "image": ""
+        }
+    ]
+}
