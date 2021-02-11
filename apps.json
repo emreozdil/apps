@@ -1,6 +1,16 @@
 {
     "apps": [
         {
+            "name": "UniqCH - Border for Clubhouse Profile",
+            "id": "id1551988629",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a1/4d/80/a14d8008-d12d-fe8e-e81f-3660e190d428/AppIcon-1x_U007emarketing-0-7-0-85-220.png/434x0w.png"
+        },
+        {
+            "name": "Secret Starbucks Menu Plus",
+            "id": "id1550827637",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/6e/75/ea/6e75ea50-8cff-34af-8d80-c50ef92cd902/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/434x0w.png"
+        },
+        {
             "name": "Qeeky - Insta Story Viewer",
             "id": "id1486077827",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/60/0b/7a600b96-d499-45ad-819b-8db87fb7ff1c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.png"
